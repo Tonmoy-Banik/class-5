@@ -1,0 +1,54 @@
+body, h1, h2, p{
+    font-size: 20px;
+    padding:0;
+    margin:0;
+}
+header {
+    background-color: #03ce51e1;
+    color: #fff;
+    font-size: large;
+    height: auto;
+    width:auto;
+    text-align: center;
+    padding: 20px 0;
+    text-decoration-style:wavy;
+    padding: 2px;
+
+}
+header h1 {
+    font-size: 2em;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav li {
+    display:inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration:underline;
+    color: #e6dddd;
+    font-weight: bold;
+}
+
+.intro {
+    text-align:center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.book {
+    text-align:center;
+    padding: 20px;
+    margin: 20px;
+}
+.section {
+    padding: 25px;
+    text-decoration:;
+}
+.contact {
+    text-align:center;
+    padding:200x;
+    margin:10px;
+}
